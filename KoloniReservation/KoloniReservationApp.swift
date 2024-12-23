@@ -11,7 +11,7 @@ import SwiftUI
 struct KoloniReservationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ReservationView()
         }
     }
 }
